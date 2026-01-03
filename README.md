@@ -3,7 +3,7 @@
 **A professional, silent Microsoft Edge removal tool for Windows**  
 Built in C# – Fast, clean, and user-friendly.
 
-![EdgeRemover Screenshot](https://via.placeholder.com/800x450?text=EdgeRemover+Running) <!-- Replace with your screenshot -->
+![EdgeRemover Screenshot](main.png) <!-- Replace with your screenshot -->
 
 ## Features
 - Automatic administrator elevation (UAC prompt on launch)
